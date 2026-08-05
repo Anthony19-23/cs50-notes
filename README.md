@@ -18,11 +18,11 @@ Jupyterlab
 
 **Data assessment**
 
-**Integrity**
+  **Integrity**
 
 The data posed no challenge and its cleaning was very straightforward as it had no fault. Checks were conducted for mismatching values, missing data and null variables but none were found, as a result it could be used without any further checks or cleaning. 
 
-**Procedures**
+  **Procedures**
 
 Checks were done for rows with missing values and a number count was conducted to find and sum them up, which found none. In addition a further routine check was done to find any mismatching and duplicate values in multiple cells which also found nothing. Through these checks alone it was ascertained that the data was clean and suitable to use for analysis. 
 
